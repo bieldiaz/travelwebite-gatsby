@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Button } from './Button'
-import bgVideo from '../assets/bgVideo2.mp4'
+import bgVideo from '../assets/videos/bgVideo2.mp4'
 
 const Hero = () => {
     return (
