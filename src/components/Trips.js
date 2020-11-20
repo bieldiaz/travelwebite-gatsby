@@ -76,8 +76,10 @@ const ProductsContainer = styled.div`
 const ProductsHeading = styled.div`
     font-size: clamp(1.2rem, 5vw, 3rem);
     text-align:center;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
     color: #000;
+    margin-top:2rem;
+   
 `
 
 const ProductWrapper = styled.div`
@@ -136,4 +138,5 @@ const ProductTitle = styled.div`
     font-weight:400;
     font-size: 1rem;
     margin-left: 0.5rem;
+    
 `
